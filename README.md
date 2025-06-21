@@ -22,9 +22,12 @@ Most of the code in this repository is written for Google Earth Engine (GEE). We
 
 This animation shows NDVI (Normalized Difference Vegetation Index) over time, providing a view into vegetation health in a key agricultural region. Higher NDVI values indicate more vigorous plant growth.
 
-### Soil: SAVI
+### Soil Moisture
 
-The Soil-Adjusted Vegetation Index (SAVI) accounts for soil brightness in sparsely vegetated areas. Paired with precipitation time series, this visualization helps explain crop stress or success.
+![bra soil moisture](https://github.com/user-attachments/assets/f07b70ed-8db9-471e-b2e5-06aa95b37be8)
+
+
+This visualization uses satellite-derived soil moisture data to show how water availability in the root zone changes over time. Soil moisture is a critical factor for crop health, especially during germination and early growth phases.
 
 ### Heat Stress Monitoring: Land Surface Temperature (LST)
 
