@@ -18,22 +18,32 @@ Most of the code in this repository is written for Google Earth Engine (GEE). We
 
 ### Vegetation Health: NDVI Animation
 
-![adams canyon gif](https://github.com/user-attachments/assets/75b56db3-2a78-4e3f-8dc6-0109b3c15790)
-
 This animation shows NDVI (Normalized Difference Vegetation Index) over time, providing a view into vegetation health in a key agricultural region. Higher NDVI values indicate more vigorous plant growth.
 
+![adams canyon gif](https://github.com/user-attachments/assets/75b56db3-2a78-4e3f-8dc6-0109b3c15790)
+
+
+### Heat Stress Monitoring: Land Surface Temperature (LST)
+
+This animation captures predicted land surface temperatures (LST), a key factor in assessing crop viability and risk of heat stress in sensitive stages of growth.
+
+![bra_lst](https://github.com/user-attachments/assets/81c0deef-95ba-423d-948c-0b7974f58887)
+
+
+### False Color
+
+False color composites use near-infrared and shortwave infrared bands to highlight vegetation health, burn scars, and water content—revealing changes invisible to the naked eye.
+
+![madagascar false color time series](https://github.com/user-attachments/assets/6d8a63b4-f26a-4813-8832-4d009e0b34c6)
+
+
 ### Soil Moisture
+
+This visualization uses satellite-derived soil moisture data to show how water availability in the root zone changes over time. Soil moisture is a critical factor for crop health, especially during germination and early growth phases.
 
 ![bra soil moisture](https://github.com/user-attachments/assets/f07b70ed-8db9-471e-b2e5-06aa95b37be8)
 
 
-This visualization uses satellite-derived soil moisture data to show how water availability in the root zone changes over time. Soil moisture is a critical factor for crop health, especially during germination and early growth phases.
-
-### Heat Stress Monitoring: Land Surface Temperature (LST)
-
-![bra_lst](https://github.com/user-attachments/assets/81c0deef-95ba-423d-948c-0b7974f58887)
-
-This animation captures predicted land surface temperatures (LST), a key factor in assessing crop viability and risk of heat stress in sensitive stages of growth.
 
 ### Precipitation: Water Resources Over Time
 
