@@ -7,7 +7,7 @@ using Sentinel-2, with cloud masking, monthly median compositing, GIF animation,
 and image count chart for QA/QC.
 -------------------------------------------------------------------------------------------
 Data: COPERNICUS/S2_SR_HARMONIZED
-Author: [Your Name]
+Author: Source of Flavor
 ===========================================================================================
 */
 
