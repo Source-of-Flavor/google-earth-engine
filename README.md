@@ -29,6 +29,10 @@ This animation captures predicted land surface temperatures (LST), a key factor 
 
 ![bra_lst](https://github.com/user-attachments/assets/81c0deef-95ba-423d-948c-0b7974f58887)
 
+### Precipitation: Water Resources Over Time
+
+![usa precip gif](https://github.com/user-attachments/assets/f1a284a4-12f0-49fc-8527-ef79436a090c)
+
 
 ### False Color
 
@@ -44,10 +48,6 @@ This visualization uses satellite-derived soil moisture data to show how water a
 ![bra soil moisture](https://github.com/user-attachments/assets/f07b70ed-8db9-471e-b2e5-06aa95b37be8)
 
 
-
-### Precipitation: Water Resources Over Time
-
-![bra precip](https://github.com/user-attachments/assets/5ebe0821-1fb0-48bd-89de-25b206fc8418)
 
 ## 🔓 Open Data for the Geospatial Community
 We believe that sharing our methods and visuals supports a more collaborative and resilient geospatial community. That’s why all our code is open-source—available for adaptation, expansion, or use in local contexts.
